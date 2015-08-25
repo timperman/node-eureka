@@ -1,0 +1,12 @@
+{
+  "name": "node-eureka",
+  "version": "0.1.0",
+  "description": "A test application using eureka-js-client.",
+  "main": "app.js",
+  "repository": "timperman/node-eureka",
+  "author": "Brett Timperman <brett.timperman@gmail.com>",
+  "dependencies": {
+    "eureka-js-client": "~1.4.1",
+    "express": "~4.13.3"
+  }
+}

@@ -1,0 +1,11 @@
+instance:
+  app: 'nodeapp'
+  hostName: 'localhost'
+  ipAddr: '127.0.0.1'
+  port: 3000
+  vipAddress: 'eureka.domain.com'
+  dataCenterInfo:
+    name: 'datacenter'
+eureka:
+  host: '127.0.0.1'
+  port: 32768
